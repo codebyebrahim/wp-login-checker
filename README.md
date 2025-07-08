@@ -36,7 +36,7 @@ https://site.com/wp-login.php:username:password
 
 Here’s what it looks like in action:
 
-![Sample Output](output.jpg)
+![Sample Output](output.JPG)
 
 ---
 
@@ -49,4 +49,4 @@ Use it only on websites you own or have permission to test.
 
 ## 🧑‍💻 Author
 
-Made by [codebyebrahim]
+codebyebrahim
